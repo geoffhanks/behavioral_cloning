@@ -14,7 +14,7 @@
 plotjuggler_layout.xml
 
 Data/
-Models/
+# Models/
 images/
 
 *.json
